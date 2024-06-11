@@ -3,12 +3,22 @@
 #### Demonstrating skills in data analysis, predictive modeling, and data visualization.
 #### By: Emily Lopez-Lemus
 #### Last Updated: May 23, 2024
-*Refer to the end of [LEA_predictive_modeling.ipynb](https://github.com/emilyslopez/datasci_practice_projects/new/main/predictive_modeling#:~:text=it%20Closing_speaker_notes.pdf-,LEA_predictive_modeling,-.ipynb) 
+*Refer to the end of [LEA_predictive_modeling.ipynb](https://github.com/emilyslopez/datasci_practice_projects/blob/main/predictive_modeling/LEA_predictive_modeling.ipynb) 
 for additional details on project findings*
 
 ### Repo Contents:
-- [LEA_predictive_modeling.ipynb](https://github.com/emilyslopez/datasci_practice_projects/new/main/predictive_modeling#:~:text=it%20Closing_speaker_notes.pdf-,LEA_predictive_modeling,-.ipynb)
-- 
+**LEA_predictive_modeling.ipynb:**
+  - JupyterNotebook that contains project datasets, analysis, and observations 
+
+**Documentation:**
+  - Folder with documenation for the datasets used in the project to understand the different variables and context
+
+**Outputs:**
+  - Folder with the charts and graphs that were produced in my anaylsis
+
+**Presentations:**
+  - Folder with the presentation and speaker notes I delivered to the Institutional Planning and Research Department at Mount Saint Mary's
+    University in Los Angeles
 
 ### Definitions:
 - **Local Educational Agency (LEA):** An LEA is a local entity involved in education including but not limited to school districts, county offices of education, direct-funded charter schools, and special education local plan area (SELPA).
