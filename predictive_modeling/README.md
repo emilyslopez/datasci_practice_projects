@@ -26,7 +26,15 @@ for additional details on project findings*
 
 ### Definitions:
 - **Local Educational Agency (LEA):** An LEA is a local entity involved in education including but not limited to school districts, county offices of education, direct-funded charter schools, and special education local plan area (SELPA).
-- **Title 1:** Federal education program that supports low income students throughout the nation. Funds are distributed to high poverty schools, as determined by the number of students who qualify for free or reduced lunch. https://www.cde.ca.gov/sp/sw/#:~:text=Helps%20disadvantaged%20students%20meet%20state,Student%20Succeeds%20Act%20(ESSA). 
+- **Title 1:** Federal education program that supports low income students throughout the nation. Funds are distributed to high poverty schools, as determined by the number of students who qualify for free or reduced lunch. https://www.cde.ca.gov/sp/sw/#:~:text=Helps%20disadvantaged%20students%20meet%20state,Student%20Succeeds%20Act%20(ESSA).
+  
+![Numbers of open schools by LEA (District) level. In CA, Elementary level districts have far more open sites than the other disrtict levels, followed by "Other", High School, Middle School, and Non-applicable. Other may imply school types or levels that don't fall within these 
+conventional categories.](https://github.com/emilyslopez/datasci_practice_projects/blob/main/predictive_modeling/outputs/num_lea.png)
+
+![Number of LEA'S by Local--the type of region. In CA, the majority of schools are located within suburban large then city large.](https://github.com/emilyslopez/datasci_practice_projects/blob/main/predictive_modeling/outputs/num_lea_locale.png)
+
+![Number of LEA's open by LEA type. In CA, most open sites are regular public school districts or independent charter distrcits.](https://github.com/emilyslopez/datasci_practice_projects/blob/main/predictive_modeling/outputs/num_lea_type.png
+)
 
 ### Purpose:
 Through my experience with AmeriCorps Reading Partners Silicon Valley, I learned about the daily reality of teachers, 
