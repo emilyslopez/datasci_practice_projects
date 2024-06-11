@@ -1,24 +1,28 @@
 # Predictive Modeling Project
-## Using predictive modeling on California Local Educational Agency (LEA) data to predict which locations are more likely to have school closures
-#### Demonstrating skills in data analysis, predictive modeling, and data visualization.
+### *Using predictive modeling on California Local Educational Agency (LEA) data to predict which locations are more likely to have school closures.* 
+#### Goal: To demonstrate skills in data analysis, predictive modeling, and data visualization.
 #### By: Emily Lopez-Lemus
 #### Last Updated: May 23, 2024
 *Refer to the end of [LEA_predictive_modeling.ipynb](https://github.com/emilyslopez/datasci_practice_projects/blob/main/predictive_modeling/LEA_predictive_modeling.ipynb) 
 for additional details on project findings*
 
-### Repo Contents:
+---
+## Repo Contents
 **LEA_predictive_modeling.ipynb:**
   - JupyterNotebook that contains project datasets, analysis, and observations 
 
-**Documentation:**
+**documentation:**
   - Folder with documenation for the datasets used in the project to understand the different variables and context
 
-**Outputs:**
+**outputs:**
   - Folder with the charts and graphs that were produced in my anaylsis
 
-**Presentations:**
+**presentations:**
   - Folder with the presentation and speaker notes I delivered to the Institutional Planning and Research Department at Mount Saint Mary's
     University in Los Angeles
+
+---
+## Project Overview
 
 ### Definitions:
 - **Local Educational Agency (LEA):** An LEA is a local entity involved in education including but not limited to school districts, county offices of education, direct-funded charter schools, and special education local plan area (SELPA).
@@ -67,7 +71,9 @@ spatial context of education.
 - **Scope: Focus only on LEAs in California**
     - I reduced the scope to CA LEAs to understand the relationship between closures of LEAs and locations in CA. 
 
-### Potential Applications of Findings:
+--- 
+
+## Potential Applications of Findings:
 
 Once this analysis and modeling is complete, the insights could: 
 - inform decisions on what distrcits need additional funding, resources and support, like teaching staff, due to more closures in
